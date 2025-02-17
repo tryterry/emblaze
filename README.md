@@ -1,7 +1,6 @@
 # ✨ emblaze
 ![alt text](resource/mokup.png)
 
-
 ### emblaze는 조명 제어 도구로, 사용자가 손쉽게 조명을 관리할 수 있도록 지원합니다.
 
 emblaze는 [BLE Mesh](./BLE_MESH.md) 네트워크를 기반으로 한 스마트 조명 제어 솔루션입니다.대규모 시설에서도 간단한 무선 네트워크를 활용하여 효율적인 조명 제어가 가능합니다.
@@ -16,6 +15,9 @@ emblaze는 [BLE Mesh](./BLE_MESH.md) 네트워크를 기반으로 한 스마트 
 * **위치 액세스**: IoT 장치를 검색하기 위해 사용
 * **근처 기기 액세스**: IoT 장치와 BLE Mesh 네트워크 연결
 
+<a href="https://play.google.com/store/search?q=emblaze&c=apps&hl=ko">
+<img src="./resource/playstore.png" width=200px>
+</a>
 &nbsp;
 
 
