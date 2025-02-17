@@ -119,3 +119,9 @@ emblaze는 [BLE Mesh](./BLE_MESH.md) 네트워크를 기반으로 한 스마트 
 - 센서 모드
 - 장면 1
 - 장면 2
+
+&nbsp;
+
+# 앱 아키텍쳐 설계
+[앱 아키텍쳐 설계 내용 보기](./ARCHITECTURE.md)
+
